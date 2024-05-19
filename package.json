@@ -1,0 +1,16 @@
+{
+  "name": "tj-repo-template",
+  "description": "",
+  "homepage": "https://github.com/govuk-one-login/ipv-cri-templates#readme",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "plop": "plop --plopfile plopfile.mjs"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "plop": "^4.0.0"
+  }
+}
